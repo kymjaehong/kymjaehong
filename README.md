@@ -2,7 +2,7 @@
 
 ### Who Am I
 - [What I learn repo](https://)
-- [Notion](https://)
+- [Notion](https://innate-sweatshirt-264.notion.site/bb047926a48c4e98aa7b41be39b667d2)
 - [Resume](https://innate-sweatshirt-264.notion.site/bebfdb4171c64f7ab1cdb2cdf28197a7)
 
 ### Academic Record
