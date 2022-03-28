@@ -1,14 +1,15 @@
 # kymjaehong
 
 ### Who Am I
-- [What I learn repo](https://)
-- [Notion](https://innate-sweatshirt-264.notion.site/bb047926a48c4e98aa7b41be39b667d2)
 - [Resume](https://innate-sweatshirt-264.notion.site/bebfdb4171c64f7ab1cdb2cdf28197a7)
+
+### Coding Diary
+- [Notion](https://innate-sweatshirt-264.notion.site/bb047926a48c4e98aa7b41be39b667d2)
 
 ### Academic Record
 - 2015.03~2021.08 `College of Electronics and Information Engineering, Sejong University` (Bachelor`s degree)
     - Major GPA : 3.46 / 4.5
-- 2015.03~2021.08 `College of Natural Sciences, Physics&Astronomy, Sejong University` (Bachelor`s degree)
+- 2015.03~2021.08 `College of Natural Sciences, Physics & Astronomy, Sejong University` (Bachelor`s degree)
     - GPA : 3.18 / 4.5
 
 ### Work Experience
