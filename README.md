@@ -8,6 +8,7 @@
 ### Academic Record
 - 2015.03~2021.08 `College of Electronics and Information Engineering, Sejong University` (Bachelor`s degree)
     - Major GPA : 3.46 / 4.5
+- 2015.03~2021.08 `College of Natural Sciences, Physics&Astronomy, Sejong University` (Bachelor`s degree)
     - GPA : 3.18 / 4.5
 
 ### Work Experience
