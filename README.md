@@ -7,7 +7,7 @@
 - [Notion]<https://innate-sweatshirt-264.notion.site/bb047926a48c4e98aa7b41be39b667d2>
 
 ### Kaggle
-[Profile]<https://www.kaggle.com/jaehonggym>
+[Profile]-> <https://www.kaggle.com/jaehonggym>
 
 ### Academic Record
 - 2015.03~2021.08 `College of Electronics and Information Engineering, Sejong University` (Bachelor`s degree)
