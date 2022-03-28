@@ -1,4 +1,4 @@
-# We are all traveling through time together, everyday of our lives. /n All we can do is do our best to relish this remarkable ride. 
+# We are all traveling through time together, everyday of our lives.     All we can do is do our best to relish this remarkable ride. 
 
 ### Who Am I
 [Resume](https://innate-sweatshirt-264.notion.site/bebfdb4171c64f7ab1cdb2cdf28197a7)
