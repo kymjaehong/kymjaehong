@@ -24,4 +24,4 @@
 - Soccer `Participation in KFA Division League 6 & 7`
 - Photogragher's visit `Sejong University Central Photography Club` (Bamboo)  
 
-[![kymjaehong's github stats](https://github-readme-stats.vercel.app/api?username=kymjaehong&title_color=666666&text_color=666666&icon_color=666666&bg_color=FFFFFF)](https://github.com/kymjaehong)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymjaehong)](https://github.com/kymjaehong/github-readme-stats)
+[![kymjaehong's github stats](https://github-readme-stats.vercel.app/api?username=kymjaehong&title_color=666666&text_color=666666&icon_color=666666&bg_color=FFFFFF&locale=kr)](https://github.com/kymjaehong)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymjaehong)](https://github.com/kymjaehong/github-readme-stats)
