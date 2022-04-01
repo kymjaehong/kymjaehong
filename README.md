@@ -23,3 +23,5 @@
 ### Hobbies
 - Soccer `Participation in KFA Division League 6 & 7`
 - Photogragher's visit `Sejong University Central Photography Club` (Bamboo)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kymjaehong)](https://github.com/kymjaehong/github-readme-stats)
