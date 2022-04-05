@@ -1,7 +1,7 @@
 # We are all traveling through time together, everyday of our lives.</br>All we can do is do our best to relish this remarkable ride. 
 
-### Cover Letter
-<a href= "https://innate-sweatshirt-264.notion.site/bebfdb4171c64f7ab1cdb2cdf28197a7"><img src= "https://img.shields.io/badge/자기소개서-666666?style=flat-square&logo=github&logoColor=FFFFFF"/>
+### Resume
+<a href= "https://innate-sweatshirt-264.notion.site/bebfdb4171c64f7ab1cdb2cdf28197a7"><img src= "https://img.shields.io/badge/이력서-666666?style=flat-square&logo=github&logoColor=FFFFFF"/>
 
 ### Summary
 <a href= "https://innate-sweatshirt-264.notion.site/bb047926a48c4e98aa7b41be39b667d2"><img src= "https://img.shields.io/badge/요약정리-666666?style=flat-square&logo=notion&logoColor=FFFFFF"/>
