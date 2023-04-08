@@ -1,10 +1,10 @@
 # We are all traveling through time together, everyday of our lives.</br>All we can do is do our best to relish this remarkable ride. 
 
 ### Resume
-<a href= """><img src= "https://img.shields.io/badge/이력서-666666?style=flat-square&logo=github&logoColor=FFFFFF"/>
+<a href= ""><img src= "https://img.shields.io/badge/이력서-666666?style=flat-square&logo=github&logoColor=FFFFFF"/>
 
 ### Blog
-<a href= """><img src= "https://img.shields.io/badge/요약정리-666666?style=flat-square&logo=notion&logoColor=FFFFFF"/>
+<a href= ""><img src= "https://img.shields.io/badge/블로그-666666?style=flat-square&logo=notion&logoColor=FFFFFF"/>
 
 ### Kaggle
 <a href= "https://www.kaggle.com/jaehonggym"><img src= "https://img.shields.io/badge/프로필-666666?style=flat-square&logo=kaggle&logoColor=FFFFFF"/>
