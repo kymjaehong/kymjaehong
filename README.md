@@ -1,6 +1,6 @@
 # We are all traveling through time together, everyday of our lives.</br>All we can do is do our best to relish this remarkable ride. 
 
-### Resume
+### 자기소개서
 <a href= ""><img src= "https://img.shields.io/badge/이력서-666666?style=flat-square&logo=github&logoColor=FFFFFF"/>
 
 ### Blog
